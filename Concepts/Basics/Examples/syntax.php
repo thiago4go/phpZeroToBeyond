@@ -14,6 +14,7 @@
         echo $COLOR;
         /*
         This will output Red and blue
+        feat_newDoc
         */
 
         ?>
